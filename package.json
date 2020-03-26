@@ -1,0 +1,25 @@
+{
+  "name": "uploadfileonedrive",
+  "version": "1.0.0",
+  "description": "Simple project to upload to the microsoft cloud Onedrive",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zanfolin/uploadFileOnedrive.git"
+  },
+  "keywords": [
+    "upload",
+    "file",
+    "onedrive",
+    "microsoft"
+  ],
+  "author": "Graziani Zanfolin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zanfolin/uploadFileOnedrive/issues"
+  },
+  "homepage": "https://github.com/zanfolin/uploadFileOnedrive#readme"
+}
